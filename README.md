@@ -1,5 +1,6 @@
 # contextmenusearchconfig
 my config for context menu search chrome plugin
+https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga
 
 # Config
 
